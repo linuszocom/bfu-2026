@@ -36,7 +36,3 @@ Visa några fler bilder på personen du hyllar i ett litet galleri längre ner p
 #### Exempel
 
 ![screen](https://github.com/folkuni-bfu-2024/2024-04-29/raw/main/screen.png)
-
-## Resurser
-
-- Länkar till relevanta artiklar, videor och dokumentation.
