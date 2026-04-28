@@ -7,6 +7,7 @@
 ## Material
 
 - <a href="https://vimeo.com/manage/videos/927465231/13a96f7e8e" target="_blank" rel="noopener noreferrer">Semantisk HTML</a>
+- <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">HTML Tutorial</a>
 
 ## Lektionskod (Copy-Paste)
 
