@@ -6,9 +6,9 @@ Välkommen till kursrepo för **BFU-2026**. Här samlar vi lektionskod, veckoupp
 
 Här finns klassens översiktsschema för snabb åtkomst.
 
-[Öppna schema som bild](./BFU%20-%20O%CC%88versikt.png)
+[Öppna schema som bild](./BFU-schema.png)
 
-![BFU schema](./BFU%20-%20O%CC%88versikt.png)
+![BFU schema](./BFU-schema.png)
 
 ## Kursens mål
 
