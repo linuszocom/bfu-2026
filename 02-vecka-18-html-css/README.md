@@ -9,6 +9,14 @@
 - <a href="https://vimeo.com/manage/videos/927465231/13a96f7e8e" target="_blank" rel="noopener noreferrer">Semantisk HTML</a> (Video)
 - <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">HTML Tutorial</a> (Läsning)
 
+## Lektionsinspelningar
+
+- <a href="https://zocom-my.sharepoint.com/:v:/g/personal/linus_ilbratt_zocom_se/IQBZvN1nqR1HS7l2QE8lPwjJAfW2uhMkb7-JnKqtpkIfaNM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PRqPD3" target="_blank" rel="noopener noreferrer">Del 1 - HTML-skelettet (!)</a>
+- <a href="https://zocom-my.sharepoint.com/:v:/g/personal/linus_ilbratt_zocom_se/IQB_g9rwwoWyTrbxsQ70EUJDAfsGhD4xY94Ez7jqz3XBbEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=J0gdzo" target="_blank" rel="noopener noreferrer">Del 2: Rubrikhierarki, Strong & Em</a>
+- <a href="https://zocom-my.sharepoint.com/:v:/g/personal/linus_ilbratt_zocom_se/IQAnrWVfQgXMS6J51145t8x_AWaKXGMiysYHulHGkBQlrZk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DgimEp" target="_blank" rel="noopener noreferrer">Del 3: Hypertext & Länkar</a>
+- <a href="https://zocom-my.sharepoint.com/:v:/g/personal/linus_ilbratt_zocom_se/IQBI62azwtJQR7l1KcbGU-orAVqosJ72L4HCNZhMH8JeBIw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yg097x" target="_blank" rel="noopener noreferrer">Del 4: Bilder, Alt-text & Listor</a>
+- <a href="https://zocom-my.sharepoint.com/:v:/g/personal/linus_ilbratt_zocom_se/IQDv5y61hIBiTav71op9lIg1AfWVtuH7DQeQXPgOfN0IwOM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qspsVa" target="_blank" rel="noopener noreferrer">Del 5: Felsökning & DevTools</a>
+
 ## Lektionskod (Copy-Paste)
 
 - Se filer i `lektionskod/`.
