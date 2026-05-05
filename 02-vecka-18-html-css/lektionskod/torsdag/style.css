@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: #f18b6a;
+    font-family: 'Roboto';
+    color: #1e29eb;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: black;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+main {
+     display: flex;
+    justify-content: center; /* Centrerar vågrätt */
+    align-items: center; /* Centrera lodrätt */
+    min-height: 100vh;
+}
+
+.card {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    max-width: 600px;
+   
+}
+
